@@ -1,0 +1,12 @@
+DEBUG | 2019-03-21 11:47:29 | [main] logging.Log4j2Example (Log4j2Example.java:11) - This Will Be Printed On Debug
+INFO  | 2019-03-21 11:47:29 | [main] logging.Log4j2Example (Log4j2Example.java:12) - This Will Be Printed On Info
+WARN  | 2019-03-21 11:47:29 | [main] logging.Log4j2Example (Log4j2Example.java:13) - This Will Be Printed On Warn
+ERROR | 2019-03-21 11:47:29 | [main] logging.Log4j2Example (Log4j2Example.java:14) - This Will Be Printed On Error
+FATAL | 2019-03-21 11:47:29 | [main] logging.Log4j2Example (Log4j2Example.java:15) - This Will Be Printed On Fatal
+INFO  | 2019-03-21 11:47:29 | [main] logging.Log4j2Example (Log4j2Example.java:17) - Appending string: Hello, World.
+DEBUG | 2019-03-21 16:47:41 | [main] logging.Log4j2Example (Log4j2Example.java:11) - This Will Be Printed On Debug
+INFO  | 2019-03-21 16:47:41 | [main] logging.Log4j2Example (Log4j2Example.java:12) - This Will Be Printed On Info
+WARN  | 2019-03-21 16:47:41 | [main] logging.Log4j2Example (Log4j2Example.java:13) - This Will Be Printed On Warn
+ERROR | 2019-03-21 16:47:41 | [main] logging.Log4j2Example (Log4j2Example.java:14) - This Will Be Printed On Error
+FATAL | 2019-03-21 16:47:41 | [main] logging.Log4j2Example (Log4j2Example.java:15) - This Will Be Printed On Fatal
+INFO  | 2019-03-21 16:47:41 | [main] logging.Log4j2Example (Log4j2Example.java:17) - Appending string: Hello, World.
